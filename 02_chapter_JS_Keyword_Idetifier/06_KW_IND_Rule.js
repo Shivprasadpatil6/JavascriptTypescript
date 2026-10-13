@@ -1,0 +1,18 @@
+var a=10;
+console.log(a);
+var $=20;
+console.log($);
+var _a=23;
+console.log(_a);
+var ab123=23;
+var Name="pramod";
+var name="Amit";
+var name="Amit";
+console.log(Name);
+console.log(name);
+var pramod_dutta="hello";
+var pramod$dutta="Hello";
+var pramodu1232="hello";
+console.log(pramod_dutta);
+console.log(pramod$dutta);
+console.log(pramodu1232);
