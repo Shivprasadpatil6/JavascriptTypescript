@@ -4,36 +4,40 @@ This repository contains a small collection of JavaScript practice files focused
 
 ## Project structure
 
-- `01_chapter_JS_Basic/` — basic JavaScript examples such as hello world and simple math operations
-- `02_chapter_JS_Keyword_Idetifier/` — JavaScript keywords, identifiers, and engine-related examples
-- `03_chapter_JS_Literal/` — reserved for literal-based JavaScript exercises
+- `01_chapter_JS_Basic/` — introductory examples, including Hello World and basic math
+- `02_chapter_JS_Keyword_Idetifier/` — JavaScript engines, keywords, identifiers, and naming rules
+- `03_chapter_JS_Literal/` — number, null, undefined, and other literal examples
+- `04_chapter_JS_Operator/` — assignment, arithmetic, comparison, and logical operators
 
 ## Prerequisites
 
 - Node.js installed on your machine
 - A terminal or VS Code integrated terminal
 
-## Run the examples
+## Run an example
 
-From the project root, run any file with Node.js:
+From the project root, run an example file with Node.js:
 
 ```bash
 node 01_chapter_JS_Basic/001_HelloWorld.js
 node 01_chapter_JS_Basic/002_Math.js
-node 02_chapter_JS_Keyword_Idetifier/03_js_engine.js
+node 02_chapter_JS_Keyword_Idetifier/06_KW_IND_Rule.js
+node 03_chapter_JS_Literal/11_NumberLiternal.js
+node 04_chapter_JS_Operator/22_ComparisionOP.js
 ```
+
+You can run any other example the same way by replacing the path with its file path.
 
 ## Topics covered
 
-- JavaScript syntax basics
-- Keywords and identifiers
-- Variables and JS engine behavior
-- Basic operations and expressions
-- Literals and language fundamentals
+- JavaScript syntax, variables, and engine behavior
+- Keywords, identifiers, and naming rules
+- Number, null, undefined, and other literals
+- Assignment, arithmetic, comparison, and logical operators
 
 ## Notes
 
-This project is designed as a learning resource and practice space. The examples are intentionally simple so that the underlying JavaScript concepts are easy to follow and experiment with.
+This project is a learning resource and practice space. The examples are intentionally simple so the underlying JavaScript concepts are easy to follow and experiment with.
 
 ## License
 
