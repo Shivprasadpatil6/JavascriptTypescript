@@ -12,6 +12,10 @@ This repository contains a small collection of JavaScript practice files focused
 - `06_chapter_JS_IF_Statement/` — `if`, `else`, and multiple-condition examples
 - `07_chapter_JS_SwitchStatement/` — `switch` statements, grouped cases, and practice questions
 - `08_chapter_JS_UserInput/` — examples exploring user input in JavaScript and Node.js
+- `09_chapter_JS_Loops/` — loop fundamentals, `for` loops, and practice questions
+- `10_chapter_JS_WhileLoop/` — `while` loops and practice questions
+- `11_chpter_JS_DOWhile/` — `do...while` loops, including nested-loop examples
+- `12_chapter_JS_Array/` — creating, accessing, modifying, searching, sorting, and transforming arrays
 
 ## Prerequisites
 
@@ -31,6 +35,10 @@ node 04_chapter_JS_Operator/22_ComparisionOP.js
 node 05_chapter_JS_Increament_Decreament_Op/38_IQ.js
 node 06_chapter_JS_IF_Statement/46_IF.js
 node 07_chapter_JS_SwitchStatement/50_SwitchStatement.js
+node 09_chapter_JS_Loops/64_For_Loops.js
+node 10_chapter_JS_WhileLoop/70_IO.js
+node 11_chpter_JS_DOWhile/76_Nested.js
+node 12_chapter_JS_Array/100_Swap.js
 ```
 
 You can run other examples the same way by replacing the path with the file you want to try. User-input examples may rely on browser APIs or Node.js-specific APIs, so check the individual file for its runtime requirements.
@@ -43,6 +51,8 @@ You can run other examples the same way by replacing the path with the file you 
 - Assignment, arithmetic, comparison, logical, conditional, and type-checking operators
 - Increment and decrement operators
 - Conditional branching with `if`/`else` and `switch`
+- `for`, `while`, and `do...while` loops
+- Arrays, including access, modification, searching, sorting, and destructuring
 - User-input examples and runtime differences
 
 ## Notes

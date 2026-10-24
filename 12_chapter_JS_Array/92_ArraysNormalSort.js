@@ -1,0 +1,11 @@
+let nums=[10,1,21,2];
+nums.sort((a,b) => a-b);
+console.log(nums);
+let op=[2,54,42,12];
+op.sort((a,b)=>a-b);
+console.log(op);
+nums.sort((a,b)=> b-a);
+console.log(nums);
+let fruits =['apple','banana',"cherry"];
+fruits.sort((a,b)=>a.localeCompare(b));
+console.log(fruits);
