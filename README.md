@@ -17,7 +17,8 @@ This repository contains a small collection of JavaScript practice files focused
 - `11_chpter_JS_DOWhile/` — `do...while` loops, including nested-loop examples
 - `12_chapter_JS_Array/` — creating, accessing, modifying, searching, sorting, and transforming arrays
 - `13_chapter_Functions/` — function declarations, parameters and return values, function expressions, arrow functions, IIFEs, and spread arguments
-- `14_chapter_let_VS_var_VS_const_Hoisting_TDZ/` — `var`, `let`, and `const` declarations and scope examples
+- `14_chapter_let_VS_var_VS_const_Hoisting_TDZ/` — `var`, `let`, and `const`, hoisting, the temporal dead zone, and closures
+- `16_CH_String/` — string literals, template literals, string conversion, properties, and search methods
 
 ## Prerequisites
 
@@ -45,6 +46,9 @@ node 13_chapter_Functions/101_FN.js
 node 13_chapter_Functions/108_FN_Arrow.js
 node 14_chapter_let_VS_var_VS_const_Hoisting_TDZ/118_var_let_const.js
 node 14_chapter_let_VS_var_VS_const_Hoisting_TDZ/120_const.js
+node 14_chapter_let_VS_var_VS_const_Hoisting_TDZ/128_Closure.js
+node 16_CH_String/129_String.js
+node 16_CH_String/131_String_serach.js
 ```
 
 You can run other examples the same way by replacing the path with the file you want to try. User-input examples may rely on browser APIs or Node.js-specific APIs, so check the individual file for its runtime requirements.
@@ -60,7 +64,8 @@ You can run other examples the same way by replacing the path with the file you 
 - `for`, `while`, and `do...while` loops
 - Arrays, including access, modification, searching, sorting, and destructuring
 - Functions, including declarations, expressions, arrow functions, IIFEs, parameters, return values, and spread arguments
-- `var`, `let`, and `const` declarations and their scope behavior
+- `var`, `let`, and `const` declarations, hoisting, the temporal dead zone, and closures
+- Strings, including literals, template literals, conversion, character access, and search methods
 - User-input examples and runtime differences
 
 ## Notes
