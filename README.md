@@ -17,8 +17,12 @@ This repository contains a small collection of JavaScript practice files focused
 - `11_chpter_JS_DOWhile/` — `do...while` loops, including nested-loop examples
 - `12_chapter_JS_Array/` — creating, accessing, modifying, searching, sorting, and transforming arrays
 - `13_chapter_Functions/` — function declarations, parameters and return values, function expressions, arrow functions, IIFEs, and spread arguments
-- `14_chapter_let_VS_var_VS_const_Hoisting_TDZ/` — `var`, `let`, and `const`, hoisting, the temporal dead zone, and closures
+- `14_chapter_let_VS_var_VS_const_Hoisting_TDZ/` — `var`, `let`, and `const`, hoisting, and the temporal dead zone
+- `15_chapter_Closure.js/` — closures and functions that retain access to their lexical scope
 - `16_CH_String/` — string literals, template literals, string conversion, properties, and search methods
+- `17_CH_Objects/` — object properties, references, configuration objects, and shallow versus deep copies
+- `00_learning/` — supplemental notes on JavaScript concepts
+- `ELI5/` — a standalone explain-like-I-am-five skill and its evaluation resources
 
 ## Prerequisites
 
@@ -47,8 +51,10 @@ node 13_chapter_Functions/108_FN_Arrow.js
 node 14_chapter_let_VS_var_VS_const_Hoisting_TDZ/118_var_let_const.js
 node 14_chapter_let_VS_var_VS_const_Hoisting_TDZ/120_const.js
 node 14_chapter_let_VS_var_VS_const_Hoisting_TDZ/128_Closure.js
+node 15_chapter_Closure.js/close.js
 node 16_CH_String/129_String.js
 node 16_CH_String/131_String_serach.js
+node 17_CH_Objects/132_Objects.js
 ```
 
 You can run other examples the same way by replacing the path with the file you want to try. User-input examples may rely on browser APIs or Node.js-specific APIs, so check the individual file for its runtime requirements.
@@ -64,8 +70,10 @@ You can run other examples the same way by replacing the path with the file you 
 - `for`, `while`, and `do...while` loops
 - Arrays, including access, modification, searching, sorting, and destructuring
 - Functions, including declarations, expressions, arrow functions, IIFEs, parameters, return values, and spread arguments
-- `var`, `let`, and `const` declarations, hoisting, the temporal dead zone, and closures
+- `var`, `let`, and `const` declarations, hoisting, and the temporal dead zone
+- Closures and lexical scope
 - Strings, including literals, template literals, conversion, character access, and search methods
+- Objects, including property access, references, configuration, and copying
 - User-input examples and runtime differences
 
 ## Notes
